@@ -1,1 +1,1 @@
-# Generative-Adversarial-Network-Fashion-MNIST-
+# Generative-Adversarial-Network-CIFAR10
